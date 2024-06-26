@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\CustomerMApp\bin\Debug\CustomerMApp.exe.config
+C:\Users\User\source\repos\CustomerMApp\bin\Debug\CustomerMApp.exe
+C:\Users\User\source\repos\CustomerMApp\bin\Debug\CustomerMApp.pdb
+C:\Users\User\source\repos\CustomerMApp\bin\Debug\Guna.UI2.dll
+C:\Users\User\source\repos\CustomerMApp\obj\Debug\CustomerMApp.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CustomerMApp\obj\Debug\CustomerMApp.Form1.resources
+C:\Users\User\source\repos\CustomerMApp\obj\Debug\CustomerMApp.Properties.Resources.resources
+C:\Users\User\source\repos\CustomerMApp\obj\Debug\CustomerMApp.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CustomerMApp\obj\Debug\CustomerMApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CustomerMApp\obj\Debug\Customer.EBB0AAB3.Up2Date
+C:\Users\User\source\repos\CustomerMApp\obj\Debug\CustomerMApp.exe
+C:\Users\User\source\repos\CustomerMApp\obj\Debug\CustomerMApp.pdb
