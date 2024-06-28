@@ -10,3 +10,6 @@ C:\Users\User\source\repos\CustomerMApp\obj\Debug\CustomerMApp.csproj.CoreCompil
 C:\Users\User\source\repos\CustomerMApp\obj\Debug\Customer.EBB0AAB3.Up2Date
 C:\Users\User\source\repos\CustomerMApp\obj\Debug\CustomerMApp.exe
 C:\Users\User\source\repos\CustomerMApp\obj\Debug\CustomerMApp.pdb
+C:\Users\User\source\repos\CustomerMApp\obj\Debug\CustomerMApp.UserControls.DisplayUC.resources
+C:\Users\User\source\repos\CustomerMApp\obj\Debug\CustomerMApp.UserControls.UploadUC.resources
+C:\Users\User\source\repos\CustomerMApp\obj\Debug\CustomerMApp.UserControls.Welcome.resources

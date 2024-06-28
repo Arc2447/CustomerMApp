@@ -39,7 +39,20 @@ namespace CustomerMApp
 
         private void guna2Button2_Click_1(object sender, EventArgs e)
         {
+            
+            displayUC1.Visible=true;
+            displayUC1.BringToFront();
+        }
 
+        private void guna2Button1_Click_1(object sender, EventArgs e)
+        {
+            uploadUC1.Visible=true;
+            uploadUC1.BringToFront();
+        }
+
+        private void guna2Button3_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }
