@@ -13,6 +13,8 @@ namespace CustomerMApp.UserControls
 {
     public partial class UploadUC : UserControl
     {
+        function fn = new function();
+        String query;
         public UploadUC()
         {
             InitializeComponent();
@@ -101,6 +103,11 @@ namespace CustomerMApp.UserControls
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
 
+        }
+
+        private void guna2Button3_Click(object sender, EventArgs e)
+        {
+           // query = 
         }
     }
 }
