@@ -52,12 +52,11 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Times New Roman", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(342, 14);
-            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label1.Location = new System.Drawing.Point(228, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(516, 47);
+            this.label1.Size = new System.Drawing.Size(342, 31);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Costomer Management App";
+            this.label1.Text = "Customer Management App";
             // 
             // panel1
             // 
@@ -65,10 +64,9 @@
             this.panel1.Controls.Add(this.guna2Button3);
             this.panel1.Controls.Add(this.guna2Button1);
             this.panel1.Controls.Add(this.guna2Button2);
-            this.panel1.Location = new System.Drawing.Point(32, 115);
-            this.panel1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.panel1.Location = new System.Drawing.Point(21, 75);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(300, 632);
+            this.panel1.Size = new System.Drawing.Size(200, 411);
             this.panel1.TabIndex = 1;
             // 
             // guna2Button3
@@ -84,10 +82,9 @@
             this.guna2Button3.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
             this.guna2Button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2Button3.ForeColor = System.Drawing.Color.White;
-            this.guna2Button3.Location = new System.Drawing.Point(30, 251);
-            this.guna2Button3.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.guna2Button3.Location = new System.Drawing.Point(20, 163);
             this.guna2Button3.Name = "guna2Button3";
-            this.guna2Button3.Size = new System.Drawing.Size(270, 69);
+            this.guna2Button3.Size = new System.Drawing.Size(180, 45);
             this.guna2Button3.TabIndex = 4;
             this.guna2Button3.Text = "Exit App";
             this.guna2Button3.Click += new System.EventHandler(this.guna2Button3_Click);
@@ -105,10 +102,9 @@
             this.guna2Button1.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
             this.guna2Button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2Button1.ForeColor = System.Drawing.Color.White;
-            this.guna2Button1.Location = new System.Drawing.Point(30, 143);
-            this.guna2Button1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.guna2Button1.Location = new System.Drawing.Point(20, 93);
             this.guna2Button1.Name = "guna2Button1";
-            this.guna2Button1.Size = new System.Drawing.Size(270, 69);
+            this.guna2Button1.Size = new System.Drawing.Size(180, 45);
             this.guna2Button1.TabIndex = 3;
             this.guna2Button1.Text = "Upload  File";
             this.guna2Button1.Click += new System.EventHandler(this.guna2Button1_Click_1);
@@ -126,10 +122,9 @@
             this.guna2Button2.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
             this.guna2Button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.guna2Button2.ForeColor = System.Drawing.Color.White;
-            this.guna2Button2.Location = new System.Drawing.Point(30, 65);
-            this.guna2Button2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.guna2Button2.Location = new System.Drawing.Point(20, 42);
             this.guna2Button2.Name = "guna2Button2";
-            this.guna2Button2.Size = new System.Drawing.Size(270, 69);
+            this.guna2Button2.Size = new System.Drawing.Size(180, 45);
             this.guna2Button2.TabIndex = 2;
             this.guna2Button2.Text = "Display Database";
             this.guna2Button2.Click += new System.EventHandler(this.guna2Button2_Click_1);
@@ -140,37 +135,36 @@
             this.panel2.Controls.Add(this.welcome1);
             this.panel2.Controls.Add(this.uploadUC1);
             this.panel2.Controls.Add(this.displayUC1);
-            this.panel2.Location = new System.Drawing.Point(315, 115);
-            this.panel2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.panel2.Location = new System.Drawing.Point(210, 75);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(902, 632);
+            this.panel2.Size = new System.Drawing.Size(601, 411);
             this.panel2.TabIndex = 2;
             // 
             // welcome1
             // 
             this.welcome1.BackColor = System.Drawing.Color.White;
-            this.welcome1.Location = new System.Drawing.Point(4, 5);
-            this.welcome1.Margin = new System.Windows.Forms.Padding(6, 8, 6, 8);
+            this.welcome1.Location = new System.Drawing.Point(3, 3);
+            this.welcome1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.welcome1.Name = "welcome1";
-            this.welcome1.Size = new System.Drawing.Size(902, 632);
+            this.welcome1.Size = new System.Drawing.Size(601, 411);
             this.welcome1.TabIndex = 0;
             // 
             // uploadUC1
             // 
             this.uploadUC1.BackColor = System.Drawing.Color.White;
-            this.uploadUC1.Location = new System.Drawing.Point(0, -5);
-            this.uploadUC1.Margin = new System.Windows.Forms.Padding(6, 8, 6, 8);
+            this.uploadUC1.Location = new System.Drawing.Point(0, -3);
+            this.uploadUC1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.uploadUC1.Name = "uploadUC1";
-            this.uploadUC1.Size = new System.Drawing.Size(902, 632);
+            this.uploadUC1.Size = new System.Drawing.Size(601, 411);
             this.uploadUC1.TabIndex = 2;
             // 
             // displayUC1
             // 
             this.displayUC1.BackColor = System.Drawing.Color.White;
             this.displayUC1.Location = new System.Drawing.Point(0, 0);
-            this.displayUC1.Margin = new System.Windows.Forms.Padding(6, 8, 6, 8);
+            this.displayUC1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.displayUC1.Name = "displayUC1";
-            this.displayUC1.Size = new System.Drawing.Size(902, 632);
+            this.displayUC1.Size = new System.Drawing.Size(601, 411);
             this.displayUC1.TabIndex = 1;
             // 
             // guna2Elipse1
@@ -200,15 +194,14 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            this.ClientSize = new System.Drawing.Size(1234, 766);
+            this.ClientSize = new System.Drawing.Size(823, 498);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";

@@ -36,6 +36,7 @@ namespace CustomerMApp
             cmd.Connection = con;
             con.Open();
             cmd.CommandText = query;
+
             cmd.ExecuteNonQuery();
             con.Close();
 
